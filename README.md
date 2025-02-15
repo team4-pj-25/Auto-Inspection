@@ -1,1 +1,1 @@
-# Auto-Inspectation
+# Auto-Inspection
