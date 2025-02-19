@@ -1,7 +1,7 @@
 # Auto-Inspection
 API developed using FastAPI <br>
-Require fine-tuned YOLO11-L detect model (File Name: best_model.pt) <br>
-ref: https://docs.ultralytics.com/ko/tasks/detect/
+Require fine-tuned YOLO11-L detect model (file name: best_model.pt) <br>
+model ref: https://docs.ultralytics.com/ko/tasks/detect/
 
 **request(POST)**: {<br>
   "flie": img <br>
