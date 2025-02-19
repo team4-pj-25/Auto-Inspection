@@ -1,5 +1,6 @@
 # Auto-Inspection
-API developed using FastAPI <br>
+REST API developed using FastAPI <br>
+In the pre-packaging stage, this API is used to inspect whether the product is properly included.
 
 Require fine-tuned YOLO11-L detect model (file name: best_model.pt) <br>
 model ref: https://docs.ultralytics.com/ko/tasks/detect/
