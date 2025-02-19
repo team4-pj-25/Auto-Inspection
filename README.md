@@ -13,7 +13,7 @@ model ref: https://docs.ultralytics.com/ko/tasks/detect/
 &emsp;"flie": img <br>
 } <br>
 
-**response**: <br>
+**Response**: <br>
 {   <br>
 &emsp;"original_image": img(base64 format), <br>
 &emsp;"detected_image": img(base64 format) <br>
