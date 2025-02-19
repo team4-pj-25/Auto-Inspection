@@ -5,7 +5,7 @@ Require fine-tuned YOLO11-L detect model (file name: best_model.pt) <br>
 model ref: https://docs.ultralytics.com/ko/tasks/detect/
 
 **Endpoint:** <br>
-`POST /img`
+`POST /predict/image/`
 
 **Request**: <br>
 { <br>
