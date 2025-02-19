@@ -1,6 +1,5 @@
 # Auto-Inspection
 API developed using FastAPI
-
 Require fine-tuned YOLO11-L detect model (File Name: best_model.pt) <br>
 ref: https://docs.ultralytics.com/ko/tasks/detect/
 
