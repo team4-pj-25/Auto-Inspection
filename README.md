@@ -3,7 +3,7 @@ API developed using FastAPI <br>
 Require fine-tuned YOLO11-L detect model (File Name: best_model.pt) <br>
 ref: https://docs.ultralytics.com/ko/tasks/detect/
 
-**request(POST)**: img(jpg format) <br>
+**request(POST)**: {flie: img} <br>
 **response**: {   <br>
   "original_image": img(base64 format), <br>
   "detected_image": img(base64 format) <br>
