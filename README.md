@@ -6,6 +6,7 @@ ref: https://docs.ultralytics.com/ko/tasks/detect/
 **request(POST)**: {<br>
   "flie": img <br>
   } <br>
+
 **response**: {   <br>
   "original_image": img(base64 format), <br>
   "detected_image": img(base64 format) <br>
